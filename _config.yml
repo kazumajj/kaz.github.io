@@ -101,6 +101,8 @@ theme: hexo-theme-stellar-main
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ' '
+  type: git
+  repository: git@github.com:kazumajj/kaz.github.io.git
+  branch: main
 
 
